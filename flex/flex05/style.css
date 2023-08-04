@@ -21,7 +21,8 @@ body {
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
   display: flex;
-  padding: 10px;
+  gap: 16px ;
+  padding: 16px;
 }
 
 .icon {
@@ -36,7 +37,7 @@ body {
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
-  margin-right: 10px;
+  
 }
 
 .close-button {
@@ -76,5 +77,7 @@ button.cancel {
     font-weight: bold;
     font-size: larger;
     display:flex;
+    align-items: center;
     justify-content: space-between;
+    margin-bottom: 8px;
 }
