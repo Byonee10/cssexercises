@@ -1,0 +1,1 @@
+There is a problem with the solution. The text do not appear below the images. How do i fix it? Open to suggestions.
